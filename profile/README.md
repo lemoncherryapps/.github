@@ -12,4 +12,4 @@ Small, honest apps for Android. No accounts, no uploads.
 
 - **Sweep: Hidden Camera Scanner**: five physical checks and a coverage report that says what was checked, what was flagged, and what your phone could not check.
 
-Site: https://lemoncherryapps.github.io · Privacy: https://lemoncherryapps.github.io/privacy/ · Contact: dev.lemoncherry@gmail.com
+Site: https://lemoncherrylabs.com · Privacy: https://lemoncherrylabs.com/privacy/ · Contact: support@lemoncherrylabs.com
